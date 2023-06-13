@@ -10,7 +10,7 @@ To use these scripts, you will need the following:
 
 - Google account
 - Google Colab
-- API Key - OpenAI (free usage for 24h) or upgrade for paid plan
+- API Key - OpenAI (free usage for 24h) or upgrade for paid plan.
 
 ## Installation
 
